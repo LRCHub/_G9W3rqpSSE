@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Diary",
+  "base_artist": "SEKAI NO OWARI",
+  "createdAt": "2026-03-12T14:02:33.441997Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Human Diary - The Vocals",
+      "artist": "Danielle Bradbery",
+      "has_synced": true,
+      "path": "select/01_Human_Diary_-_The_Vocals_Danielle_Bradbery.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nobody's Diary",
+      "artist": "Yazoo",
+      "has_synced": true,
+      "path": "select/02_Nobody's_Diary_Yazoo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nobody's Diary (Extended Version)",
+      "artist": "Yazoo",
+      "has_synced": true,
+      "path": "select/03_Nobody's_Diary_(Extended_Version)_Yazoo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dear Diary",
+      "artist": "Luna",
+      "has_synced": false,
+      "path": "select/04_Dear_Diary_Luna.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Diary of Love",
+      "artist": "Michael Nyman",
+      "has_synced": false,
+      "path": "select/05_Diary_of_Love_Michael_Nyman.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My British Tour Diary",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/06_My_British_Tour_Diary_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dear Diary",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/07_Dear_Diary_Travis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Diary of a Madman",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/08_Diary_of_a_Madman_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Diary of an Unknown Soldier",
+      "artist": "Sabaton",
+      "has_synced": false,
+      "path": "select/09_Diary_of_an_Unknown_Soldier_Sabaton.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Death's Diary",
+      "artist": "Marc Almond",
+      "has_synced": true,
+      "path": "select/10_Death's_Diary_Marc_Almond.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nobody's Diary - Live",
+      "artist": "Alison Moyet",
+      "has_synced": true,
+      "path": "select/11_Nobody's_Diary_-_Live_Alison_Moyet.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nobody's Diary (live)",
+      "artist": "Alison Moyet",
+      "has_synced": true,
+      "path": "select/12_Nobody's_Diary_(live)_Alison_Moyet.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nobody’s Diary",
+      "artist": "Yazoo",
+      "has_synced": true,
+      "path": "select/13_Nobody’s_Diary_Yazoo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Diary of Horace Wimp",
+      "artist": "Electric Light Orchestra",
+      "has_synced": true,
+      "path": "select/14_The_Diary_of_Horace_Wimp_Electric_Light_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dear Diary",
+      "artist": "Róisín Murphy",
+      "has_synced": true,
+      "path": "select/15_Dear_Diary_Róisín_Murphy.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Diary Of A Stranger",
+      "artist": "Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/16_Diary_Of_A_Stranger_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Diary Of A Stranger",
+      "artist": "The Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/17_Diary_Of_A_Stranger_The_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Diary",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": false,
+      "path": "select/pl_01_Diary_SEKAI_NO_OWARI.txt"
+    }
+  ]
+}
